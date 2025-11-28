@@ -4,6 +4,29 @@
 
 리그 오브 레전드와 같은 게임에서 커스텀 게임(내전)진행 시, **편리하게 팀을 구성하고 밸런스를 조절할 수 있는 도구**입니다.
 
+## 직접 빌드해서 사용하기
+```plaintext
+NOTE : Github Release에서 최신 버전을 사용 할 수 있습니다.
+```
+### 개발도구
+Python 3.11
+```python
+git clone https://github.com/freez1no/5vs5_Balancer.git
+```
+
+```python
+# 필수 라이브러리 설치
+pip install -r requirements.txt
+```
+```python
+cd source
+# 직접 빌드
+pyinstaller --noconsole --onefile --name "client" .\001.py
+```
+## LICENCE
+```
+재미로 만든 프로그램입니다. 아무 제약없이 자유롭게 사용 가능하나, 디지털 서명이 없기때문에 보안오류가 발생하는점 이해바랍니다. (무시해도됨)
+```
 ## 주요 기능
 
 ### 참가자 관리
