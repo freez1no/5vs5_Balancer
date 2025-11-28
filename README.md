@@ -1,3 +1,5 @@
+<img width="1099" height="552" alt="image" src="https://github.com/user-attachments/assets/5b132231-118d-4249-a2ba-8ed786306099" />
+
 # 5v5 Balancer
 
 리그 오브 레전드와 같은 게임에서 커스텀 게임(내전)진행 시, **편리하게 팀을 구성하고 밸런스를 조절할 수 있는 도구**입니다.
