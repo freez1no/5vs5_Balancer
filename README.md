@@ -23,4 +23,4 @@
 | Version | Description |
 | --- | --- |
 | v1.0.1 | Improve UI, bug fix |
-| v1.0.0 | Test build |
+| v1.0.0 | Test build<3 |
