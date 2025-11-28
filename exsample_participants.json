@@ -1,0 +1,92 @@
+{
+    "1": {
+        "name": "Kim",
+        "scores": {
+            "TOP": 10,
+            "JUNGLE": 5,
+            "MID": 5,
+            "ADC": 5,
+            "SUPPORT": 6
+        }
+    },
+    "2": {
+        "name": "Joo",
+        "scores": {
+            "TOP": 5,
+            "JUNGLE": 5,
+            "MID": 5,
+            "ADC": 5,
+            "SUPPORT": 5
+        }
+    },
+    "3": {
+        "name": "Ye",
+        "scores": {
+            "TOP": 7,
+            "JUNGLE": 5,
+            "MID": 6,
+            "ADC": 5,
+            "SUPPORT": 8
+        }
+    },
+    "4": {
+        "name": "Jeong",
+        "scores": {
+            "TOP": 2,
+            "JUNGLE": 5,
+            "MID": 8,
+            "ADC": 7,
+            "SUPPORT": 7
+        }
+    },
+    "5": {
+        "name": "Jeon",
+        "scores": {
+            "TOP": 4,
+            "JUNGLE": 6,
+            "MID": 5,
+            "ADC": 7,
+            "SUPPORT": 3
+        }
+    },
+    "6": {
+        "name": "Park",
+        "scores": {
+            "TOP": 2,
+            "JUNGLE": 4,
+            "MID": 3,
+            "ADC": 5,
+            "SUPPORT": 3
+        }
+    },
+    "7": {
+        "name": "Hong",
+        "scores": {
+            "TOP": 8,
+            "JUNGLE": 5,
+            "MID": 6,
+            "ADC": 4,
+            "SUPPORT": 7
+        }
+    },
+    "8": {
+        "name": "Seo",
+        "scores": {
+            "TOP": 7,
+            "JUNGLE": 6,
+            "MID": 7,
+            "ADC": 5,
+            "SUPPORT": 4
+        }
+    },
+    "11": {
+        "name": "Edward",
+        "scores": {
+            "TOP": 6,
+            "JUNGLE": 5,
+            "MID": 3,
+            "ADC": 6,
+            "SUPPORT": 8
+        }
+    }
+}
