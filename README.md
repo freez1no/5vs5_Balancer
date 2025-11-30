@@ -47,7 +47,8 @@ pyinstaller --noconsole --onefile --name "client" .\001.py
 
 | Version | Description |
 | --- | --- |
-| v1.0.1 | Improve UI, bug fix |
+| v1.1.0 | Added user info modification, Ui improvement
+| v1.0.1 | Bug fix |
 | v1.0.0 | Test build<3 |
 
 
