@@ -1,4 +1,5 @@
-<img width="1102" height="652" alt="image" src="https://github.com/user-attachments/assets/ddec11f6-b845-4811-8e29-a88c6b79be3f" />
+<img width="1098" height="645" alt="image" src="https://github.com/user-attachments/assets/886bd752-36f5-470e-8b26-110e0153c57d" />
+
 
 # 5v5 Balancer
 
