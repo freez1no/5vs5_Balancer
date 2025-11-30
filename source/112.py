@@ -376,7 +376,7 @@ class TeamBuilderApp(ctk.CTk):
         main_area = ctk.CTkFrame(self, fg_color="transparent")
         main_area.grid(row=0, column=1, sticky="nsew", padx=20, pady=20)
 
-        ctk.CTkLabel(main_area, text="SUMMONER'S RIFT", font=("Roboto", 24, "bold"), text_color=COLORS["text_main"]).pack(pady=(5, 0))
+        ctk.CTkLabel(main_area, text="MUST DO 5vs5", font=("Roboto", 24, "bold"), text_color=COLORS["text_main"]).pack(pady=(5, 0))
         ctk.CTkLabel(main_area, text=f"{version}", font=("Roboto", 12), text_color=COLORS["text_dim"]).pack(pady=(0, 15))
 
         header_frame = ctk.CTkFrame(main_area, fg_color="transparent")
