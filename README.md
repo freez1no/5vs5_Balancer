@@ -1,4 +1,4 @@
-<img width="1099" height="552" alt="image" src="https://github.com/user-attachments/assets/5b132231-118d-4249-a2ba-8ed786306099" />
+<img width="1102" height="652" alt="image" src="https://github.com/user-attachments/assets/ddec11f6-b845-4811-8e29-a88c6b79be3f" />
 
 # 5v5 Balancer
 
@@ -30,6 +30,7 @@ pyinstaller --noconsole --onefile --name "client" .\001.py
 ## 주요 기능
 
 ### 참가자 관리
+<img width="393" height="550" alt="image" src="https://github.com/user-attachments/assets/d636e3a0-6be7-471e-909c-939524cbe059" />
 
 * **스탯**: 닉네임과 5개 레이블(탑, 정글, 미드, 원딜, 서폿)별 숙련도(0~10점)를 저장합니다.
 * **로컬 데이터**: 프로그램 종료 후에도 참가자 데이터(`participants.json`)가 프로그램이 있는 폴더에 같이 저장됩니다.
@@ -42,12 +43,16 @@ pyinstaller --noconsole --onefile --name "client" .\001.py
   * 라인별 점수 차이가 계산됩니다.
   * **주의 (2~3점 차이)**: 테두리가 <span style="color:#FAA61A">**노란색**</span>으로 변경됩니다.
   * **위험 (4점 이상 차이)**: 테두리가 <span style="color:#ED4245">**빨간색**</span>으로 변경되어 밸런스가 안맞다는걸 시각적으로 표현합니다.
+* **전적 관리**:
+  * 게임 종료 후, 승/패를 기록하여 전적을 볼 수 있습니다.
+ 
 
 ## 버전 로그
 
 | Version | Description |
 | --- | --- |
-| v1.1.0 | Added user info modification, Ui improvement
+| v1.1.2 | add match history, data load function |
+| v1.1.0 | Added user info modification, Ui improvement |
 | v1.0.1 | Bug fix |
 | v1.0.0 | Test build<3 |
 
